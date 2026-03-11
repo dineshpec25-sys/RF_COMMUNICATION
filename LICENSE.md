@@ -1,4 +1,4 @@
-Copyright (c) 2026 dineshpec25-sys
+Copyright (c) 2026 dineshpec25-sys & ponmudimr
 
 All Rights Reserved.
 
@@ -11,4 +11,4 @@ the copyright owner.
 Unauthorized use, copying, modification, or distribution of this 
 code, via any medium, is strictly prohibited.
 
-For permission requests, contact: [your email address]
+For permission requests, contact: dinesh22826@gmail.com
